@@ -4,3 +4,7 @@
 ``` python
 var myVar = "Hello, world!";
 ```
+- [ ] Belajar Makroekonomi
+- [x] Makan ciki
+- [x] Minum Air Putih
+- [ ] Makan nasi
